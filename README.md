@@ -1,0 +1,1 @@
+A small npm package for managing contact and social media links throughout my projects.

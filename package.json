@@ -1,0 +1,10 @@
+{
+  "name": "@mariodev/socials",
+  "version": "1.0.0",
+  "description": "A small npm package for managing my contact links.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
